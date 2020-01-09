@@ -1,0 +1,16 @@
+{
+  "name": "iot-switch-server",
+  "version": "1.0.0",
+  "description": "Socket server for IoT switch.",
+  "author": "Rogue Programmers",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "rxjs": "^6.5.1",
+    "socket.io": "^2.2.0"
+  }
+}
