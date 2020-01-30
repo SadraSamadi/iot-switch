@@ -8,3 +8,5 @@ IoT remote switch controller.
 * `docs` Documentations for the project.
 * `server` Source codes for the server.
 * `wifi` Source codes for the WiFi Module ESP8266.
+
+> [Download APK](./IoT_Switch_Client_v1.0.0.apk)
